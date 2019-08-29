@@ -21,8 +21,8 @@ for i in range(5):
 for th in threads:
 	th.join()
 ```
+Output
 ```
-
 Starting a thread
 Starting a thread
 Starting a thread
@@ -35,6 +35,5 @@ Ending a thread
 Ending a thread
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjMyMDAyNzgsLTEwNTA1ODU1OTZdfQ
-==
+eyJoaXN0b3J5IjpbMTI2ODczMzgyOSwtMTA1MDU4NTU5Nl19
 -->
